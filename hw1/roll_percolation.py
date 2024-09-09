@@ -1,5 +1,3 @@
-import numpy as np
-
 class PercolationSimulation:
     """
     A simulation of a 2D directed percolation problem. Given a 2D lattice, blocked sites
