@@ -1,5 +1,3 @@
-import numpy as np
-
 class AbelianSandpile:
     """
     An Abelian sandpile model simulation. The sandpile is initialized with a random
